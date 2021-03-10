@@ -1,0 +1,20 @@
+input{
+    display: none;
+}
+.image-upload-container{
+    background-color: blueviolet;
+    color: white;
+    padding: 15px 30px;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 15px;
+}
+.img-preview-container{
+    position: relative;
+}
+.img-preview{
+  background: center center no-repeat;
+  background-size: contain;
+  height: 116px;
+  width: 116px;      
+}
